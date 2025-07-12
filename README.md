@@ -15,7 +15,7 @@ TestSampleプロジェクトを参考にしてください。
 
 　ReadInt(Section, Item, Default)　　整数値を読み込む
 
-　WriteInt(Section, Item, Value)   製図内を保存する
+　WriteInt(Section, Item, Value) 　　整数値を保存する
 
 　ReadStr(Section, Item, Default)　　文字列を読み込む
 

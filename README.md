@@ -7,7 +7,8 @@ TIniFilesと同じ使い勝手でデータをJSONファイルに保存・読み�
 
 TestSampleプロジェクトを参考にしてください。
 
-使用出来る手続き・関数
+#### 使用出来る手続き・関数
+
 ReadBool(Section, Item, Default)　　論理値(True/False)を読み込む
 
 WriteBool(Section, Item, Value)　　論理値(True/False)を保存する

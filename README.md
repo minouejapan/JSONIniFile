@@ -39,6 +39,7 @@ TestSampleプロジェクトを参考にしてください。
 
 #### jsonファイルの例(TestSampleプロジェクト)
 
+```
 {
   "JSONIni" : "TestSample.json",
   "Window" : {
@@ -56,6 +57,7 @@ TestSampleプロジェクトを参考にしてください。
     "FloatSpinEdit1" : 1.2500000000000000E+000
   }
 }
+```
 
 ### ライセンス
 
